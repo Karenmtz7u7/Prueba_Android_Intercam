@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029633242901",
+    "project_id": "pruebaintercam",
+    "storage_bucket": "pruebaintercam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029633242901:android:1214fd68147d3fd94e9b1c",
+        "android_client_info": {
+          "package_name": "com.aplication.karen.mtz.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029633242901-o5ocs82tp08qks9gfidfcuvagtjf7gkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2nwNuQZlV6KY6LMVTcp5p4nWlcJAEkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029633242901-o5ocs82tp08qks9gfidfcuvagtjf7gkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
