@@ -1,10 +1,19 @@
-#Prueba Android Intercam
-el inicio se hizo con firebase, la tabla Favorite guarda los item seleccionados como favoritos
+#Prueba Android
+
+Arquitectura MVVM
+android 2022.2.1.20
+Retrofit
+Room
+Firebase authentication
+Corrutinas
+MaterialDesing
+BottomNavigation
+NavigationComponent
+Punk API (https://punkapi.com/documentation/v2).
+
 
 los datos de acceso son 
-email
-"intercam@intercam.com"
-password
-"intercam123/"
+email  "intercam@intercam.com"
+password "intercam123/"
 
-el proyecto esta desarrollado con android 2022.2.1.20, a considerar, manejar jdk11 para que pueda funcionar kap
+ considerar manejar jdk11 para que pueda funcionar kap
